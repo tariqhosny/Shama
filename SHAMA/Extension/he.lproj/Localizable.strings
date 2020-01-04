@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  SHAMA
+
+  Created by Tariq on 12/10/19.
+  Copyright © 2019 Farido. All rights reserved.
+*/
+"Ok" = "בסדר";
+"en" = "he";
+"ar" = "he";
+"OFFER" = "הנחה";
+"Size" = "גודל";
+"Total price" = "מחיר סופי";
+"People review" = "מספר הדירוגים";
+"Add to cart" = "הוסף לעגלה";
+"Rate" = "ציון";
+"Orders" = "בקשות";
+"Payed" = "שולם";
+"Products" = "מוצרים";
+"Contact us" = "צרו קשר";
+"Edit" = "ערוך";
+"Items" = "פריטים";
+"cart" = "עגלה";
+"Empty Fields" = "שדות ריקים";
+"Checkout" = "לבדוק";
+"payment" = "תשלום";
+"Failed" = "נכשל";
+"Please select the payment method" = "בחר את אמצעי התשלום";
+"Cancel" = "בטל";
+"Error" = "שגיאה";
+"Dismiss" = "לשחרר";
+"payment Failed" = "התשלום נכשל";
+"enter your password" = "הכנס סיסמתך";
+"login" = "התחברות";
+"enter your email" = "הכנס את האימייל שלך";
+"Login Failed" = "ההתחברות נכשלה";
+"enter your name" = "הזן את שמך";
+"register" = "להירשם";
+"enter your Address" = "הזן את הכתובת שלך";
+"enter your phone" = "תכניס את מספר הטלפון שלך";
+"enter your confirm password" = "הזן את סיסמת האישור שלך";
+"password at least 6" = "סיסמא לפחות 6";
+"password and confirm password must be the same" = "הסיסמה אינה תואמת";
+"Full name not correct" = "השם המלא לא נכון";
+"email not correct" = "אימייל לא תקין";
+"Register Failed" = "ההרשמה נכשלה";
+"forget Password" = "שכחת ססמא";

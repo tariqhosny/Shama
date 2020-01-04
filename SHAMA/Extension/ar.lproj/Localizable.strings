@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  SHAMA
+
+  Created by Tariq on 12/10/19.
+  Copyright © 2019 Farido. All rights reserved.
+*/
+"Ok" = "تم";
+"en" = "ar";
+"he" = "ar";
+"OFFER" = "خصم";
+"Size" = "حجم";
+"Total price" = "السعر الكلي";
+"People review" = "عدد التقييمات";
+"Add to cart" = "اضف إلى العربة";
+"Rate" = "تقييم";
+"Orders" = "الطلبات";
+"Payed" = "تم دفعه";
+"Products" = "المنتجات";
+"Contact us" = "تواصل معنا";
+"Edit" = "تعديل";
+"Items" = "وحده";
+"cart" = "ألعربة";
+"Empty Fields" = "الحقول فارغه";
+"Checkout" = "الدفع";
+"payment" = "الدفع";
+"Faild" = "فشل";
+"Please select the payment method" = "من فضلك قم بإختيار طريقه الدفع";
+"Cancel" = "إلغاء";
+"Error" = "خطأ";
+"Dismiss" = "إلغاء";
+"payment Failed" = "فشل عملية الدفع";
+"Please enter your password" = "ادخل كلمه السر";
+"Login" = "تسجيل دخول";
+"Please enter your email" = "ادخل بريدك الاكترونى";
+"Login Failed" = "فشل تسجيل الدخول";
+"Please enter your name" = "ادخل اسمك";
+"Register" = "تسجيل";
+"Please enter your Address" = "اخل عنوانك";
+"Please enter your phone" = "ادخل رقم تليفونك";
+"Please confirm password" = "ادخل تأكيد كلمه السر";
+"The password must be at least 6 characters" = "كلمه السر لا تقل عن ٦ احرف";
+"Password and confirm password must be the same" = "كلمه السر  غير متطابقة";
+"Name not correct" = "الاسم غير صحيح";
+"Email not correct" = "البريد الالكترونى غير صحيح";
+"Register Failed" = "خطأ فى التسجيل";
+"Forget Password" = "نسيت كلمه السر";
